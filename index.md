@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog -- but with edited title
 ---
+
+This is where content goes
 
